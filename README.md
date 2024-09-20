@@ -1,4 +1,4 @@
-<h2 align="left">Oii, seja bem-vindo ao meu perfil!! /ᐠ｡ꞈ｡ᐟ\</h2>
+<h2 align="left">Oii, seja bem-vindo ao meu perfil!! (￣o￣) . z Z</h2>
 
 ###
 
