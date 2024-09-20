@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/uhbdLc4oYmcAAAAC/cat.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/36cuLYK4kmAAAAAd/kikis-delivery-service-anime.gif" />
 
 ###
 
