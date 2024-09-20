@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/3a8JMM4wNjYAAAAd/kikis-delivery-service-ghibli.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/uhbdLc4oYmcAAAAC/cat.gif" />
 
 ###
 
