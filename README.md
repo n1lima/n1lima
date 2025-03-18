@@ -22,6 +22,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
