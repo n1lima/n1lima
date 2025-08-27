@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+   <img src="https://www.svgrepo.com/show/354381/sqlite.svg" height="30" alt="SQL Lite logo"  />
+  <img width="12" />
 </div>
 
 ###
