@@ -1,13 +1,5 @@
 <h2 align="left">Oii, seja bem-vindo ao meu perfil!! (￣o￣) . z Z</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1lima&theme=dracula&show_icons=true&hide_border=false&count_private=true&card_width=320" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lima&theme=dracula&show_icons=true&hide_border=false&layout=compact&card_width=320" height="150" alt="languages graph"/>
-</div>
-
-###
 
 <img align="right" height="150" src="https://static.tumblr.com/6b11a1691ad6bb409ee76fe23ba2defa/xxxnjmg/qsXnilamw/tumblr_static_e9s0fcs1orw4gooo0wkogg0kk.gif"  />
 
